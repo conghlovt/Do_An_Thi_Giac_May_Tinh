@@ -1,0 +1,8 @@
+numpy
+opencv-contrib-python
+requests
+zxing-cpp
+
+# Tuỳ chọn: tăng khả năng đọc ZBar/Data Matrix
+# pyzbar
+# pylibdmtx
