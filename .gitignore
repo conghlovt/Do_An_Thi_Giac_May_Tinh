@@ -20,3 +20,15 @@ out_qr/
 *~
 .DS_Store
 Thumbs.db
+
+# Quy tắc giữ lại từ ứng dụng thị giác máy tính hiện có
+models/
+ket_qua/
+*.pth
+*.pt
+*.h5
+*.onnx
+
+# Cache và output sinh ra ở mọi thư mục
+**/__pycache__/
+**/runs/outputs/
