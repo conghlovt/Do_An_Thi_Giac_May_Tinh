@@ -1,0 +1,12 @@
+torch
+torchvision
+opencv-python
+mediapipe
+numpy
+Pillow
+matplotlib
+streamlit
+streamlit-webrtc
+av
+hsemotion==0.3.0
+timm==1.0.27
